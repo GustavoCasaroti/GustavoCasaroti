@@ -22,7 +22,7 @@
 ---
 
 ## 🛠️ Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=js,php,laravel,angular,react,nodejs,wordpress,mysql,git,webstorm,vscode,windows)
+![My Skills](https://skillicons.dev/icons?i=js,php,laravel,angular,ts,react,nodejs,wordpress,mysql,git,webstorm,vscode,windows)
 
 ---
 

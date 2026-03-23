@@ -9,12 +9,13 @@
 ---
 
 ## 🌐 Connect with me
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/gustavo-casaroti">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/ferreira.kuji">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="35"/>
   </a>
 </p>
 

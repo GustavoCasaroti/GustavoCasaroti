@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Gustavo 👋
 
-<!--
-**GustavoCasaroti/GustavoCasaroti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Fullstack Web developer and Cyber Forensics student
 
-Here are some ideas to get you started:
+- 🚀 Currently working on my portfolio
+- 📚 Learning cybersecurity and Ethical Hacking
+- 🎮 Fun fact: I love games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect with me
+[LinkedIn](www.linkedin.com/in/gustavo.casaroti)
+[Instagram](https://www.instagram.com/ferreira.kuji/)
+
+---
+
+## 🛠️ Languages and Tools
+![My Skills](https://skillicons.dev/icons?i=js,reactnative,nodejs,php,laravel,mysql,git)
+
+---
+
+## 📊 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=radical)

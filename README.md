@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F70000&size=28&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Gustavo+👋)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&repeat=false&width=435&lines=Hi+there%2C+I'm+Gustavo+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ## I'm a Fullstack Web developer and Cyber Forensics student
 
@@ -9,13 +9,14 @@
 ---
 
 ## 🌐 Connect with me
-<a href="www.linkedin.com/in/gustavo.casaroti">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="[https://instagram.com/SEU_USER](https://www.instagram.com/ferreira.kuji/)">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/gustavo-casaroti">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40"/>
+  </a>
+  <a href="https://instagram.com/ferreira.kuji">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 

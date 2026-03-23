@@ -15,7 +15,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/ferreira.kuji">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="35" style="fill:#E4405F;"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="35"/>
   </a>
 </p>
 

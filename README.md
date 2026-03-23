@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=js,reactnative,nodejs,php,laravel,mysql,git)
+![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,php,laravel,mysql,git)
 
 ---
 

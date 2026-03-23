@@ -10,11 +10,11 @@
 
 ## 🌐 Connect with me
 <p>
-  <a href="https://linkedin.com/in/gustavo-casaroti" target="_blank">
+  <a href="https://linkedin.com/in/gustavo-casaroti">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/ferreira.kuji" target="_blank">
+  <a href="https://instagram.com/ferreira.kuji">
     <img src="https://skillicons.dev/icons?i=instagram" height="35"/>
   </a>
 </p>

@@ -29,6 +29,6 @@
 ## 📊 Stats
 
 <div align="center">
-  <img height="auto" src="https://github-readme-stats.vercel.app/api?username=GustavoCasaroti&show_icons=true&theme=radical"/>
-  <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCasaroti&layout=compact&theme=radical"/>
+  <img alt="Estatísticas do GitHub" height="auto" src="https://github-readme-stats.vercel.app/api?username=GustavoCasaroti&show_icons=true&theme=radical"/>
+  <img alt="Linguagens mais usadas" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCasaroti&layout=compact&theme=radical"/>
 </div>

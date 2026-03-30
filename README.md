@@ -25,9 +25,3 @@
 ![My Skills](https://skillicons.dev/icons?i=js,php,laravel,angular,ts,react,nextjs,nodejs,wordpress,docker,mysql,git,webstorm,vscode,windows)
 
 ---
-
-## 📊 Stats
-
-<div align="center">
-  [![Gustavo's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=GustavoCasaroti)](https://github.com/GustavoCasaroti/github-readme-stats-fast)
-</div>

@@ -22,6 +22,6 @@
 ---
 
 ## 🛠️ Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=js,php,laravel,angular,ts,react,nextjs,nodejs,wordpress,docker,mysql,git,webstorm,vscode,windows)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,nextjs,angular,react,ts,tailwind,php,laravel,wordpress,mysql,git,docker,vercel,vscode,windows&perline=8)
 
 ---
